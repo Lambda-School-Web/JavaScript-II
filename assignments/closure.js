@@ -9,7 +9,7 @@ function helloString() {
     console.log(`Hello ${name}, welcome to Lambda School`);
   }
   return spitOut();
-
+}
 helloString();
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */

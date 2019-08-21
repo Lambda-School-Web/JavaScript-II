@@ -73,7 +73,7 @@ function contains(item, list, cb) {
   return cb(list.includes(item));
 }
 
-contains("Pencil", items, console.log);
+contains("pencil", items, console.log);
 
 /* STRETCH PROBLEM */
 
